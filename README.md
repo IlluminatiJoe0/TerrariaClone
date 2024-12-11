@@ -4,6 +4,8 @@ A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://git
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
 
+I DO NOT OWN OR PRETEND TO OWN TERRARIA
+
 ## Platforms
 
 - `core`: Main module with the application logic shared by all platforms.
